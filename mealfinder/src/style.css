@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&display=swap');
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.bg-gradient-diagonal {
+  background: linear-gradient(139deg, #F6A96E 0%, #FA649D 84.51%);
+}
+
+.bg-gradient-horizontal {
+  background: linear-gradient(111deg, #F6A96E 0%, #FA649D 100%);
+}
